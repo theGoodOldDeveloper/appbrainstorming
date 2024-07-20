@@ -8,6 +8,12 @@ https://www.udemy.com/course/next-js-the-complete-developers-guide/learn/lecture
 
 https://www.udemy.com/course/next-js-the-complete-developers-guide/learn/lecture/40830454#notes
 
+## EXAMPLE
+
+### frontend page export => server side => to fronted 💖😎🎁
+
+/components/profile.tsx -> /app/page.tsx -> USER 😊
+
 ## PROLOG
 
 #### make no mistake
