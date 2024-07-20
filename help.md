@@ -1,3 +1,13 @@
+# QESTION
+
+### CASHE💖👍
+
+https://www.udemy.com/course/next-js-the-complete-developers-guide/learn/lecture/40830470#notes
+
+### PATH HELPER💖👍
+
+https://www.udemy.com/course/next-js-the-complete-developers-guide/learn/lecture/40830454#notes
+
 ## PROLOG
 
 #### make no mistake
