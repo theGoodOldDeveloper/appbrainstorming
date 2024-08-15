@@ -116,3 +116,9 @@ npm install --save-exact @auth/core@0.18.1 @auth/prisma-adapter@1.0.6 next-auth@
 #### create:
 
 /src/auth.ts
+
+## ZOD validation 😊
+
+npm install zod
+
+https://www.udemy.com/course/next-js-the-complete-developers-guide/learn/lecture/40969842#notes
